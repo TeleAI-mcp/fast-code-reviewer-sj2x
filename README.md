@@ -1,2 +1,3 @@
-# fast-code-reviewer-sj2x
-An automated code review tool for modern development workflows
+# Fast Code Reviewer Sj2X
+
+A automated code review tool for modern development workflows.
